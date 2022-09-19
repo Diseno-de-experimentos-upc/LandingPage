@@ -79,3 +79,129 @@
 .steps p {
     font-size: 1.23rem;
 }
+/*About section*/
+.about {
+    background: var(--color-white);
+    height: 65rem;
+}
+.about h1{
+    line-height: 1;
+    margin-bottom: 2%;
+    color: var(--color-black);
+}
+
+
+.about__container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-top: 5%;
+}
+.about__left {
+    display: grid;
+    position: center;
+}
+
+.about__left h1{
+    margin-bottom: 30%;
+    display: grid;
+    text-align: center;
+
+}
+
+.Product-Video_DigitalTeam-video {
+    background: var(--color-primary);
+    width: 95%;
+    height: 150%;
+    position: center;
+
+    margin-top: -10%;;
+    margin-bottom:6%;
+    padding: 2rem;
+    border-radius: 2rem;
+    transition: var(--transition);
+    box-shadow: 0 2rem 2rem rgba(0,0,0,0.3);
+    z-index: 1;
+
+}
+
+.about__right {
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 0rem;
+    margin-left: 10%;
+}
+.about__right h5{
+    font-size: 2rem;
+    color: #757575;
+    line-height: 2;
+}
+.about__right p{
+    margin-top: -3%;
+    font-size: 1.5rem;
+    color: var(--color-black);
+}
+.about__right li {
+    color: var(--color-black);
+    grid-template-columns: repeat(1,3fr);
+    font-size: 1.3rem;
+}
+.services {
+    display: grid;
+    margin-top: 0.5rem;
+    grid-template-columns: repeat(2,1fr);
+    gap: 0rem;
+    padding: 0rem;
+    border-radius: 2rem;
+    transition: var(--transition);
+}
+/*Partner section*/
+.partner {
+    background: #5C6BC0;/* var(--color-bg3); */
+    height: 30rem;
+}
+
+.partner h1 {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2rem;
+    display: grid;
+    text-align: center;
+    line-height: 1;
+    margin-top: -7%;
+    background-color: var(--color-primary);
+    padding: 10%;
+    color: var(--color-white);
+
+}
+
+.partner__container {
+    display: grid;
+}
+.partner__center {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background: var(--color-white);
+    border-radius: 2rem;
+    margin-top: -15%;
+    padding: 3%;
+}
+.UPC {
+    margin-left: 35%;
+    margin-bottom: 2%;
+    width: 5rem;
+    height: 5rem;
+}
+.MetaGoogle{
+    margin-left: 10%;
+    margin-bottom: 2%;
+    width: 15rem;
+    height: 6rem;
+}
+.IEEE {
+
+    margin-left: 10%;
+    margin-bottom: 2%;
+    width: 15rem;
+    height: 6rem;
+}
