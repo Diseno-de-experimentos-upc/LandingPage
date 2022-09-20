@@ -85,3 +85,37 @@
 .Phrase h2{
     text-align: center;
 }
+
+/*  */
+.Team-Video{
+    color: black;
+    background-color: #ffffff;
+}
+
+.Team-Video_DigitalTeam-video{
+    display: flex;
+    justify-content: center;
+}
+.Team-Video_DigitalTeam-video iframe{
+
+    width : 699px;
+    height: 393px;
+}
+
+@media screen and (max-width: 800px) {
+    .Team-Video_DigitalTeam-video{
+        height: 0;
+        overflow: hidden;
+        padding-bottom: 56.25%;
+        padding-top: 30px;
+        position: relative;
+    }
+
+    .Team-Video_DigitalTeam-video iframe, .Team-Video_DigitalTeam-video object, .Team-Video_DigitalTeam-video embed {
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+    }
+}
