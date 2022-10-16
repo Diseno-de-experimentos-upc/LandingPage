@@ -8,7 +8,7 @@ DigitalMind está conformada por cinco jóvenes, estudiantes de la Universidad P
 
 ## About DigitalMind
 
-![ZenDriver](https://github.com/upc-pre-202202-si730-sw52-DigitalMind/digital-mind-project-landing-page/blob/master/public/assets/imag/profile.png)
+![ZenDriver](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/digital-mind-project-landing-page/blob/master/public/assets/imag/profile.png)
 
 
 
@@ -19,19 +19,19 @@ Profile+ es una aplición donde los developers pueden unirse para luego ser cont
 ## Autors
 
 ### Abel Cierto
-[![Abel Cierto](https://github.com/upc-pre-202202-si730-sw52-InnovaMind/innova-mind-project-landing-page/blob/master/public/assets/img/AbelCierto.png)](https://www.linkedin.com/in/abel-cierto-espiritu-b0140820b/)
+[![Abel Cierto](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/innova-mind-project-landing-page/blob/master/public/assets/img/AbelCierto.png)](https://www.linkedin.com/in/abel-cierto-espiritu-b0140820b/)
 
 ### Branco Villegas
-[![Branco Villegas](https://github.com/upc-pre-202202-si730-sw52-InnovaMind/innova-mind-project-landing-page/blob/master/public/assets/img/BrancoVillegas.png)](https://www.linkedin.com/in/branco-villegas-peralta-9b4195242)
+[![Branco Villegas](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/innova-mind-project-landing-page/blob/master/public/assets/img/BrancoVillegas.png)](https://www.linkedin.com/in/branco-villegas-peralta-9b4195242)
 
 ### Dominik Mendoza
-[![Dominik Mendoza](https://github.com/upc-pre-202202-si730-sw52-InnovaMind/innova-mind-project-landing-page/blob/master/public/assets/imag/DominikMendoza.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
+[![Dominik Mendoza](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/innova-mind-project-landing-page/blob/master/public/assets/imag/DominikMendoza.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
 
 ### Piero Liberato
-[![Michael Carrillo](https://github.com/upc-pre-202202-si730-sw52-InnovaMind/innova-mind-project-landing-page/blob/master/public/assets/img/MichaelCarrillo.png)](https://www.linkedin.com)
+[![Michael Carrillo](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/innova-mind-project-landing-page/blob/master/public/assets/img/MichaelCarrillo.png)](https://www.linkedin.com)
 
 ### Lennin Huaman
-[![Lennin Huaman](https://github.com/upc-pre-202202-si730-sw52-InnovaMind/innova-mind-project-landing-page/blob/master/public/assets/images/LenninHuaman.png)](https://www.linkedin.com/in/lennin-huaman-b05210242/)
+[![Lennin Huaman](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/innova-mind-project-landing-page/blob/master/public/assets/images/LenninHuaman.png)](https://www.linkedin.com/in/lennin-huaman-b05210242/)
 
 ---
 
@@ -40,12 +40,12 @@ Profile+ es una aplición donde los developers pueden unirse para luego ser cont
 ### Segmento de developers
 Son personas entre 18 y 50 años que se dedican al  desarrollo de software, que buscan un trabajo remoto o presencial, que quieren tener un portafolio de proyectos y que quieren tener un mejor perfil para ser contratados.
 
-![Developer](https://github.com/upc-pre-202202-si730-sw52-DigitalMind/digital-mind-project-landing-page/blob/master/public/assets/img/dev.png)
+![Developer](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/digital-mind-project-landing-page/blob/master/public/assets/img/dev.png)
 
 ### Segmento de empresas
 Son empresas, en su mayoría pymes, que actualmente se encuentran en la búsqueda de developers que cumplan con ciertos requisitos. Pueden ser empresas nacionales o internacionales.
 
-![Business](https://github.com/upc-pre-202202-si730-sw52-InnovaMind/innova-mind-project-landing-page/blob/master/public/assets/img/company.png)
+![Business](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/innova-mind-project-landing-page/blob/master/public/assets/img/company.png)
 
 ---
 ## Características principales de Profile+
