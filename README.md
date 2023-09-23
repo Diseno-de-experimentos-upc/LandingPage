@@ -22,7 +22,7 @@ Profile+ es una aplición donde los developers pueden unirse para luego ser cont
 [![Sebastían Lévano](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/Sebastian Levano.jpg)](https://www.linkedin.com/)
 
 ### Anthony Botello
-[![Anthony Botello](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/Anthony Botello.png)](https://www.linkedin.com)
+[![Anthony Botello](https://raw.githubusercontent.com/Diseno-de-experimentos-upc/LandingPage/master/public/assets/img/Anthony%20Botello.png)](https://www.linkedin.com)
 
 ### Rodrigo Sabino
 [![Rodrigo Sabino](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/Rodrigo Sabino.png)](https://www.linkedin.com)
