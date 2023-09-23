@@ -8,7 +8,7 @@ DigitalMind está conformada por cinco jóvenes, estudiantes de la Universidad P
 
 ## About DigitalMind
 
-![Profile+](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/digital-mind-project-landing-page/blob/master/public/assets/img/profile.png)
+![Profile+](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/profile.png)
 
 
 
@@ -18,20 +18,20 @@ Profile+ es una aplición donde los developers pueden unirse para luego ser cont
 
 ## Autors
 
-### Abel Cierto
-[![Abel Cierto](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/digital-mind-project-landing-page/blob/master/public/assets/img/AbelCierto.png)](https://www.linkedin.com/in/abel-cierto-espiritu-b0140820b/)
+### Sebastían Lévano
+[![Sebastían Lévano](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/Sebastian Levano.jpg)](https://www.linkedin.com/)
 
-### Branco Villegas
-[![Branco Villegas](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/digital-mind-project-landing-page/blob/master/public/assets/img/BrancoVillegas.png)](https://www.linkedin.com/in/branco-villegas-peralta-9b4195242)
+### Anthony Botello
+[![Anthony Botello](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/Anthony Botello.png)](https://www.linkedin.com)
 
-### Dominik Mendoza
-[![Dominik Mendoza](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/digital-mind-project-landing-page/blob/master/public/assets/img/DominikMendoza.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
+### Rodrigo Sabino
+[![Rodrigo Sabino](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/Rodrigo Sabino.png)](https://www.linkedin.com)
 
 ### Michael Carrillo
-[![Michael Carrillo](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/digital-mind-project-landing-page/blob/master/public/assets/img/MichaelCarrillo.png)](https://www.linkedin.com)
+[![Michael Carrillo](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/MichaelCarrillo.png)](https://www.linkedin.com)
 
-### Lennin Huaman
-[![Lennin Huaman](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/digital-mind-project-landing-page/blob/master/public/assets/img/LenninHuaman.png)](https://www.linkedin.com/in/lennin-huaman-b05210242/)
+### Piero Mendoza
+[![Piero Mendoza](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/Piero Mendoza.png)](https://www.linkedin.com)
 
 ---
 
@@ -40,12 +40,12 @@ Profile+ es una aplición donde los developers pueden unirse para luego ser cont
 ### Segmento de developers
 Son personas entre 18 y 50 años que se dedican al  desarrollo de software, que buscan un trabajo remoto o presencial, que quieren tener un portafolio de proyectos y que quieren tener un mejor perfil para ser contratados.
 
-![Developer](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/digital-mind-project-landing-page/blob/master/public/assets/img/dev.png)
+![Developer](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/dev.png)
 
 ### Segmento de empresas
 Son empresas, en su mayoría pymes, que actualmente se encuentran en la búsqueda de developers que cumplan con ciertos requisitos. Pueden ser empresas nacionales o internacionales.
 
-![Business](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/digital-mind-project-landing-page/blob/master/public/assets/img/company.png)
+![Business](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/company.png)
 
 ---
 ## Características principales de Profile+
