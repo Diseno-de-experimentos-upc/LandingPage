@@ -19,19 +19,19 @@ Profile+ es una aplición donde los developers pueden unirse para luego ser cont
 ## Autors
 
 ### Sebastían Lévano
-[![Sebastían Lévano](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/Sebastian Levano.jpg)](https://www.linkedin.com/)
+[![Sebastían Lévano](https://raw.githubusercontent.com/Diseno-de-experimentos-upc/LandingPage/master/public/assets/img/Sebastian%20Levano.jpg)](https://www.linkedin.com/)
 
 ### Anthony Botello
 [![Anthony Botello](https://raw.githubusercontent.com/Diseno-de-experimentos-upc/LandingPage/master/public/assets/img/Anthony%20Botello.png)](https://www.linkedin.com)
 
 ### Rodrigo Sabino
-[![Rodrigo Sabino](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/Rodrigo Sabino.png)](https://www.linkedin.com)
+[![Rodrigo Sabino](https://raw.githubusercontent.com/Diseno-de-experimentos-upc/LandingPage/master/public/assets/img/Rodrigo%20Sabino.png)](https://www.linkedin.com)
 
 ### Michael Carrillo
 [![Michael Carrillo](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/MichaelCarrillo.png)](https://www.linkedin.com)
 
 ### Piero Mendoza
-[![Piero Mendoza](https://github.com/Diseno-de-experimentos-upc/LandingPage/blob/master/public/assets/img/Piero Mendoza.png)](https://www.linkedin.com)
+[![Piero Mendoza](https://raw.githubusercontent.com/Diseno-de-experimentos-upc/LandingPage/master/public/assets/img/Piero%20Mendoza.png)](https://www.linkedin.com)
 
 ---
 
